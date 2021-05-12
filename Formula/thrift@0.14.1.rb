@@ -1,4 +1,4 @@
-class Thrift < Formula
+class ThriftAT0141 < Formula
   desc "Framework for scalable cross-language services development"
   homepage "https://thrift.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=thrift/0.14.1/thrift-0.14.1.tar.gz"
